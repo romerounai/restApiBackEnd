@@ -24,7 +24,7 @@ There is an __db.json__ with some examples loaded, just some examples to test it
   {
       "level": "INFO",
       "id": "600600602",
-      "clase": "com.gvdi.b77.ServiceLogin",
+      "clase": "com.paquete.nombre",
       "metodo": "doLogin",
       "mensaje": "El login ha funcionado correctamente 600600602"
   }
