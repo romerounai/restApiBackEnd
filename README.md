@@ -5,17 +5,17 @@ Rest API Backend mock created with __Node JS__ and consumed by __Angular__ App.
 Run `npm install`
 
 ## Development server
-Just run `npm run json-server` to start the **Rest Server**. Then go to http://localhost:3000/
+Just run `npm run json-server` to start the **Rest Server**. Then go to http://localhost:3001/
 
 
 # Getting started
 There is the file __db.json__ with some examples loaded, just some examples to test it:
 
 * To __read__ existing logs, use **GET**: 
-  * To list them all: http://localhost:3000/log/
-  * To get one, inform the __id__: http://localhost:3000/log/1
+  * To list them all: http://localhost:3001/log/
+  * To get one, inform the __id__: http://localhost:3001/log/1
 
-* To __add__ a new log use **POST**: http://localhost:3000/log/ with the body:
+* To __add__ a new log use **POST**: http://localhost:3001/log/ with the body:
 
   ```json
   {

@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "json-server": "json-server --id _id --watch db.json"
+    "json-server": "json-server --host 0.0.0.0 --id _id --watch db.json --port 3001"
   },
   "private": true,
   "dependencies": {

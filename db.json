@@ -1,28 +1,3 @@
 {
-  "log": [
-    {
-        "level": "INFO",
-        "id": "600600600",
-        "clase": "com.gvdi.b77.ServiceLogin",
-        "metodo": "doLogin",
-        "mensaje": "El login ha funcionado correctamente",
-        "_id": 1
-    },
-    {
-        "level": "INFO",
-        "id": "600600601",
-        "clase": "com.gvdi.b77.ServiceLogin",
-        "metodo": "doLogin",
-        "mensaje": "El login ha funcionado correctamente 600600601",
-        "_id": 2
-    },
-    {
-      "level": "INFO",
-      "id": "600600602",
-      "clase": "com.gvdi.b77.ServiceLogin",
-      "metodo": "doLogin",
-      "mensaje": "El login ha funcionado correctamente 600600602",
-      "_id": 3
-    }
-  ]
+  "log": []
 }
